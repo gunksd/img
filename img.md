@@ -58,7 +58,7 @@
 
 ## 🖼️ 界面预览
 
-![screenshot](https://user-images.githubusercontent.com/yourusername/your-repo/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/gunksd/img/screenshot.png)
 
 ## 📄 License
 
