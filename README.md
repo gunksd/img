@@ -56,10 +56,6 @@
 2. 点击“上传图片”按钮，选择图片并上传。
 3. 上传成功后，点击“获取链接”按钮复制图片链接。
 
-## 🖼️ 界面预览
-
-![screenshot](https://github.com/gunksd/img/blob/main/c0ee0c37c66529cab80c76b383c89eb9.jpg)
-
 ## 📄 License
 
 本项目基于 [MIT License](LICENSE) 许可证。
